@@ -1,0 +1,8 @@
+# source_project|package_name|architectures|pool_dir|version_must_match_tag
+#
+# source_project is the directory under incoming/ used by producer repositories.
+# package_name is the Debian Package field accepted from that source.
+# architectures is a comma-separated list of accepted Debian architectures.
+# pool_dir is the final repository destination for accepted .deb files.
+# version_must_match_tag requires Debian Version to equal the incoming tag without leading v.
+guest-agent|guest-agent|amd64,arm64|pool/main/g/guest-agent|true
