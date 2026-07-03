@@ -1,0 +1,16 @@
+Package: guest-agent
+Architecture: amd64
+Version: 0.1.0
+Priority: optional
+Maintainer: LiquidMetal <noreply@liquidmetal.dev>
+Installed-Size: 3160
+Filename: pool/main/g/guest-agent/guest-agent_0.1.0_linux_amd64.deb
+Size: 1394556
+MD5sum: d72cc410da35feaa78143c616b2cc6e4
+SHA1: b045eb785b0b16a46f74d8ce832e236ff3b185e0
+SHA256: 675a1ee660fe69ce6fa3f29bf765495a91be5df2e9b0f2648c4fada602f2878e
+SHA512: 4200418f718cbf39b9570729a318af144de7e7fd4dbacc9ace61743dae3f49baf4665ced4b810d4841d6a4296d58952c0416cbbf568117d02fbb8410315fe0e9
+Homepage: https://github.com/liquidmetal-dev/guest-agent
+Description: LiquidMetal guest-agent (vsock host control + ssh proxy).
+Architecture-Variant: amd64v1
+
