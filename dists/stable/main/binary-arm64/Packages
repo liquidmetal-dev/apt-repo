@@ -28,3 +28,18 @@ SHA512: ea4bf878d2e5a028e6d70519a132696ab60a9e50427c934884b21e88d58e16c54e067ce8
 Homepage: https://github.com/liquidmetal-dev/guest-agent
 Description: LiquidMetal guest-agent (vsock host control + ssh proxy).
 
+Package: guest-agent
+Architecture: arm64
+Version: 0.3.0
+Priority: optional
+Maintainer: LiquidMetal <noreply@liquidmetal.dev>
+Installed-Size: 3072
+Filename: pool/main/g/guest-agent/guest-agent_0.3.0_linux_arm64.deb
+Size: 1266962
+MD5sum: abae611b21dc2989a5c0ad15b5868eb9
+SHA1: fd43d097c0493f5c73bf8a1b9b6aef0dec1f9d26
+SHA256: 4b8be19c29c1cebc5542c12f6cad64d2a37636b763c163a103bddef7b6eecb97
+SHA512: ccf226e837778a1e28e55503f278d82014ac1ac975864c60e222a45b78bd9d2247f8314ff9c493a65c25a8f9ecb75f3b90b42f228b85f682a64496229eb6de58
+Homepage: https://github.com/liquidmetal-dev/guest-agent
+Description: LiquidMetal guest-agent (vsock host control + ssh proxy).
+
